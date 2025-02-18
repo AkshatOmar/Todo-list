@@ -26,7 +26,7 @@ A simple **To-Do List** web application built using **HTML**, **CSS**, and **Jav
 ### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/AkshatOmar/todo-list.git
 
 ### 2. Visit site
 https://akshatomar.github.io/Todo-list/
